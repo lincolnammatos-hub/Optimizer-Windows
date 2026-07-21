@@ -43,10 +43,10 @@ O aplicativo é distribuído como script Python (`.py`) — não há instalador 
 
 ```bash
 # Clone o repositório
-git clone https://github.com/lincolnammatos-hub/NOME-DO-REPOSITORIO.git
+git clone https://github.com/lincolnammatos-hub/Optimizer-Windows.git
 
 # Entre na pasta do projeto
-cd NOME-DO-REPOSITORIO
+cd Optimizer-Windows
 
 # (Opcional) Crie um ambiente virtual
 python -m venv venv
@@ -59,8 +59,6 @@ pip install -r requirements.txt
 # Execute o aplicativo
 python rf_cliente1.py
 ```
-
-> Substitua `NOME-DO-REPOSITORIO` pelo nome real do seu repositório no GitHub.
 
 Ao abrir, insira a chave de ativação quando solicitado para liberar o uso completo do aplicativo.
 
